@@ -1,0 +1,1304 @@
+﻿Log file open, 11/14/19 15:40:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Dantes_Folly
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.304951
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.14-15.40.02:115][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.14-15.40.02:115][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.14-15.40.02:115][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [M:/UE4/dantesfolly/Saved/Config/Windows/Engine.ini]
+[2019.11.14-15.40.02:115][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.14-15.40.02:115][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.11.14-15.40.02:115][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.11.14-15.40.02:115][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.11.14-15.40.02:115][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [M:/UE4/dantesfolly/Saved/Config/Windows/Engine.ini]
+[2019.11.14-15.40.02:115][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [M:/UE4/dantesfolly/Saved/Config/Windows/Engine.ini]
+[2019.11.14-15.40.02:115][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.14-15.40.02:115][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.14-15.40.02:115][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.14-15.40.02:115][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.14-15.40.02:115][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.14-15.40.02:115][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.14-15.40.02:115][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.14-15.40.02:115][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.14-15.40.02:115][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.14-15.40.02:115][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.14-15.40.02:115][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.14-15.40.02:115][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.14-15.40.02:115][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.14-15.40.02:115][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [M:/UE4/dantesfolly/Saved/Config/Windows/Engine.ini]
+[2019.11.14-15.40.02:115][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.14-15.40.02:115][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.14-15.40.02:115][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.14-15.40.02:115][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.14-15.40.02:115][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.14-15.40.02:116][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.14-15.40.02:116][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.14-15.40.02:116][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.14-15.40.02:116][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.14-15.40.02:116][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.14-15.40.02:116][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.14-15.40.02:116][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.14-15.40.02:116][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.14-15.40.02:116][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [M:/UE4/dantesfolly/Saved/Config/Windows/Engine.ini]
+[2019.11.14-15.40.02:116][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [M:/UE4/dantesfolly/Saved/Config/Windows/Engine.ini]
+[2019.11.14-15.40.02:133][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [M:/UE4/dantesfolly/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-15.40.02:133][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.14-15.40.02:133][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.14-15.40.02:133][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [M:/UE4/dantesfolly/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-15.40.02:133][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.14-15.40.02:133][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [M:/UE4/dantesfolly/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-15.40.02:133][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.14-15.40.02:133][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.14-15.40.02:133][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.14-15.40.02:133][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.14-15.40.02:133][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.14-15.40.02:133][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.14-15.40.02:133][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.14-15.40.02:133][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.14-15.40.02:133][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.14-15.40.02:133][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.14-15.40.02:133][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.14-15.40.02:133][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.14-15.40.02:133][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.14-15.40.02:133][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.14-15.40.02:133][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.14-15.40.02:133][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.14-15.40.02:133][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.14-15.40.02:133][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.14-15.40.02:133][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [M:/UE4/dantesfolly/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-15.40.02:133][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.14-15.40.02:133][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.14-15.40.02:133][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [M:/UE4/dantesfolly/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [M:/UE4/dantesfolly/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.14-15.40.02:134][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.14-15.40.02:135][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.14-15.40.02:135][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.14-15.40.02:135][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.14-15.40.02:135][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.14-15.40.02:135][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.14-15.40.02:135][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.14-15.40.02:135][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [M:/UE4/dantesfolly/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-15.40.02:135][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.14-15.40.02:135][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.14-15.40.02:135][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.14-15.40.02:135][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.14-15.40.02:163][  0]LogHAL: Display: Platform has ~ 32 GB [34233081856 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.14-15.40.02:163][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.14-15.40.02:163][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.14-15.40.02:163][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [M:/UE4/dantesfolly/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-15.40.02:163][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.14-15.40.02:163][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.14-15.40.02:163][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [M:/UE4/dantesfolly/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-15.40.02:163][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.14-15.40.02:163][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [M:/UE4/dantesfolly/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-15.40.02:163][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.14-15.40.02:163][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.14-15.40.02:163][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.14-15.40.02:163][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.14-15.40.02:163][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [M:/UE4/dantesfolly/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [M:/UE4/dantesfolly/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [M:/UE4/dantesfolly/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [M:/UE4/dantesfolly/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.14-15.40.02:164][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.14-15.40.02:165][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.14-15.40.02:165][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.14-15.40.02:165][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [M:/UE4/dantesfolly/Saved/Config/Windows/Engine.ini]
+[2019.11.14-15.40.02:165][  0]LogInit: Computer: MC11809
+[2019.11.14-15.40.02:165][  0]LogInit: User: 1803332
+[2019.11.14-15.40.02:165][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.14-15.40.02:165][  0]LogInit: High frequency timer resolution =3.328130 MHz
+[2019.11.14-15.40.02:165][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.11.14-15.40.02:165][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.14-15.40.02:165][  0]LogMemory: Process Physical Memory: 98.05 MB used, 98.05 MB peak
+[2019.11.14-15.40.02:165][  0]LogMemory: Process Virtual Memory: 97.47 MB used, 97.47 MB peak
+[2019.11.14-15.40.02:165][  0]LogMemory: Physical Memory: 5160.65 MB used,  27486.56 MB free, 32647.21 MB total
+[2019.11.14-15.40.02:165][  0]LogMemory: Virtual Memory: 4662.88 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.11.14-15.40.02:197][  0]LogInit: Using OS detected language (en-US).
+[2019.11.14-15.40.02:197][  0]LogInit: Using OS detected locale (en-GB).
+[2019.11.14-15.40.02:198][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.14-15.40.02:363][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.14-15.40.02:417][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.14-15.40.02:417][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.14-15.40.02:693][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.14-15.40.02:693][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.14-15.40.02:779][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2019.11.14-15.40.02:779][  0]LogD3D11RHI:       8079/0/16323 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.11.14-15.40.02:795][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.11.14-15.40.02:795][  0]LogD3D11RHI:       128/0/16323 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.11.14-15.40.02:799][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.14-15.40.02:799][  0]LogD3D11RHI:       0/0/16323 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.14-15.40.02:799][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.14-15.40.02:806][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.14-15.40.02:806][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.14-15.40.02:806][  0]LogWindows: EnumDisplayDevices:
+[2019.11.14-15.40.02:807][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2019.11.14-15.40.02:807][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2019.11.14-15.40.02:808][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.11.14-15.40.02:809][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.11.14-15.40.02:810][  0]LogWindows:    4. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.11.14-15.40.02:810][  0]LogWindows:    5. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.11.14-15.40.02:811][  0]LogWindows:    6. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.11.14-15.40.02:812][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.11.14-15.40.02:812][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2019.11.14-15.40.02:812][  0]LogD3D11RHI:   Driver Version: 431.60 (internal:26.21.14.3160, unified:431.60)
+[2019.11.14-15.40.02:812][  0]LogD3D11RHI:      Driver Date: 7-17-2019
+[2019.11.14-15.40.02:812][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2019.11.14-15.40.02:861][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.14-15.40.02:865][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.14-15.40.02:866][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.14-15.40.02:866][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.14-15.40.02:874][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.14-15.40.03:360][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.14-15.40.03:385][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.14-15.40.03:407][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.14-15.40.03:427][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.14-15.40.03:446][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.14-15.40.03:465][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.14-15.40.03:487][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.14-15.40.03:510][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.14-15.40.03:520][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.14-15.40.03:618][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.14-15.40.03:618][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.14-15.40.03:618][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.14-15.40.03:618][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.14-15.40.03:618][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.14-15.40.03:618][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.14-15.40.03:618][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.14-15.40.03:618][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.14-15.40.03:618][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.14-15.40.03:618][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.14-15.40.03:618][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.14-15.40.03:618][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.14-15.40.03:618][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.14-15.40.03:618][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.14-15.40.03:618][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.14-15.40.03:618][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.14-15.40.03:618][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.14-15.40.03:618][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.14-15.40.03:622][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.14-15.40.03:682][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.14-15.40.03:682][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.14-15.40.03:719][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.14-15.40.03:719][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.14-15.40.03:738][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.14-15.40.03:757][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.14-15.40.03:778][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.14-15.40.03:804][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.14-15.40.03:864][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.14-15.40.03:864][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.14-15.40.03:864][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.14-15.40.03:886][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.14-15.40.03:968][  0]LogShaderCompilers: Guid format shader working directory is 29 characters bigger than the processId version (M:/UE4/dantesfolly/Intermediate/Shaders/WorkingDirectory/14116/).
+[2019.11.14-15.40.03:969][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/1803332/AppData/Local/Temp/UnrealShaderWorkingDir/8DC672E24F2D53A479CB6AAC7CFCD1B4/'.
+[2019.11.14-15.40.03:972][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.14-15.40.03:972][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.14-15.40.03:972][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.14-15.40.04:546][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.14-15.40.04:596][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/1803332/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.14-15.40.04:596][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/1803332/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.14-15.40.04:596][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file M:/UE4/dantesfolly/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.14-15.40.04:596][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.14-15.40.04:597][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file M:/UE4/dantesfolly/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.14-15.40.04:597][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.14-15.40.04:610][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.14-15.40.04:610][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.14-15.40.04:610][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.14-15.40.04:624][  0]LogDerivedDataCache: Using Local data cache path C:/Users/1803332/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.14-15.40.04:624][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.14-15.40.04:624][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.14-15.40.04:646][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.14-15.40.04:647][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.14-15.40.04:648][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.14-15.40.04:761][  0]LogAssetRegistry: FAssetRegistry took 0.0358 seconds to start up
+[2019.11.14-15.40.05:258][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.14-15.40.05:343][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.14-15.40.05:343][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.14-15.40.05:343][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.14-15.40.05:343][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.14-15.40.05:343][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.14-15.40.05:436][  0]LogNetVersion: Dantes_Folly 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2353331558)
+[2019.11.14-15.40.06:313][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.382889 seconds
+[2019.11.14-15.40.06:324][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.11.14-15.40.06:324][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.11.14-15.40.06:324][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.14-15.40.07:560][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.14-15.40.07:574][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.14-15.40.07:575][  0]LogDirectoryWatcher: A directory notification failed for 'M:/UE4/dantesfolly/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.11.14-15.40.07:575][  0]LogDirectoryWatcher: A directory notification failed for 'M:/UE4/dantesfolly/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.11.14-15.40.07:708][  0]SourceControl: Source control is disabled
+[2019.11.14-15.40.07:708][  0]SourceControl: Source control is disabled
+[2019.11.14-15.40.07:711][  0]SourceControl: Source control is disabled
+[2019.11.14-15.40.07:712][  0]SourceControl: Source control is disabled
+[2019.11.14-15.40.07:888][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.14-15.40.08:042][  0]LogOcInput: OculusInput pre-init called
+[2019.11.14-15.40.09:055][  0]LogEngine: Initializing Engine...
+[2019.11.14-15.40.09:057][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.14-15.40.09:059][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.11.14-15.40.09:284][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.14-15.40.09:301][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.14-15.40.09:328][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.14-15.40.09:350][  0]LogInit: FAudioDevice initialized.
+[2019.11.14-15.40.09:350][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.14-15.40.09:397][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/1803332/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.14-15.40.09:407][  0]LogInit: Texture streaming: Enabled
+[2019.11.14-15.40.09:431][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.14-15.40.09:460][  0]LogInit: Transaction tracking system initialized
+[2019.11.14-15.40.09:490][  0]BlueprintLog: New page: Editor Load
+[2019.11.14-15.40.09:611][  0]LocalizationService: Localization service is disabled
+[2019.11.14-15.40.10:005][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.14-15.40.10:005][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.14-15.40.10:251][  0]SourceControl: Source control is disabled
+[2019.11.14-15.40.10:251][  0]Cmd: MAP LOAD FILE="M:/UE4/dantesfolly/Content/levels/Main_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.14-15.40.10:254][  0]LightingResults: New page: Lighting Build
+[2019.11.14-15.40.10:258][  0]MapCheck: New page: Map Check
+[2019.11.14-15.40.10:258][  0]LightingResults: New page: Lighting Build
+[2019.11.14-15.40.10:283][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.11.14-15.40.11:014][  0]LogFileCache: Scanning file cache for directory 'M:/UE4/dantesfolly/Content/' took 0.95s
+[2019.11.14-15.40.12:717][  0]LogAIModule: Creating AISystem for world Main_Level
+[2019.11.14-15.40.12:725][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/levels/Forest_level) is flushing async loading
+[2019.11.14-15.40.12:725][  0]LogStreaming: Display: Flushing async loaders.
+[2019.11.14-15.40.16:978][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/levels/Plaza_level) is flushing async loading
+[2019.11.14-15.40.17:487][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/levels/Lower-city_level) is flushing async loading
+[2019.11.14-15.40.17:594][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/levels/Upper-city_level) is flushing async loading
+[2019.11.14-15.40.18:097][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.14-15.40.18:151][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.11.14-15.40.18:151][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.14-15.40.18:152][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.388ms to complete.
+[2019.11.14-15.40.18:152][  0]LogFileHelpers: Loading map 'Main_Level' took 7.901
+[2019.11.14-15.40.18:279][  0]LogCollectionManager: Loaded 0 collections in 0.009906 seconds
+[2019.11.14-15.40.18:323][  0]LogFileCache: Scanning file cache for directory 'M:/UE4/dantesfolly/Saved/Collections/' took 0.01s
+[2019.11.14-15.40.18:323][  0]LogFileCache: Scanning file cache for directory 'M:/UE4/dantesfolly/Content/Developers/1803332/Collections/' took 0.01s
+[2019.11.14-15.40.18:323][  0]LogFileCache: Scanning file cache for directory 'M:/UE4/dantesfolly/Content/Collections/' took 0.01s
+[2019.11.14-15.40.18:323][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.11.14-15.40.18:330][  0]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 2732 classes and 659 folders.
+[2019.11.14-15.40.18:338][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.11.14-15.40.18:340][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:343][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:344][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:345][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:346][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:346][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:347][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:348][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:349][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:350][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:351][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:352][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:353][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:354][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:355][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:355][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:356][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:357][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:358][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:359][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:360][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:361][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:362][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:363][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:364][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:365][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-15.40.18:420][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.14-15.40.18:437][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-15.40.18:444][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-15.40.18:451][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-15.40.18:458][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-15.40.18:465][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.11.14-15.40.18:482][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2019.11.14-15.40.18:550][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-15.40.18:558][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-15.40.19:717][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.11.14-15.40.19:742][  0]LogSlate: Took 0.000436 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.14-15.40.19:745][  0]LogSlate: Took 0.000401 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.14-15.40.19:747][  0]LogSlate: Took 0.000516 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.14-15.40.19:815][  0]LogRenderer: Reallocating scene render targets to support 1208x924 Format 10 NumSamples 1 (Frame:1).
+[2019.11.14-15.40.19:937][  0]LogRenderer: Reallocating scene render targets to support 1208x1016 Format 10 NumSamples 1 (Frame:2).
+[2019.11.14-15.40.20:101][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.11.14-15.40.20:102][  0]LogLoad: (Engine Initialization) Total time: 21.58 seconds
+[2019.11.14-15.40.20:102][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.14-15.40.20:114][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.14-15.40.20:175][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.14-15.40.20:349][  2]LogDirectoryWatcher: A directory notification failed for 'M:/UE4/dantesfolly/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.11.14-15.40.20:350][  2]LogDirectoryWatcher: A directory notification failed for 'M:/UE4/dantesfolly/Content/', and we were unable to create a new request.
+[2019.11.14-15.40.20:350][  2]LogDirectoryWatcher: A directory notification failed for 'M:/UE4/dantesfolly/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.11.14-15.40.20:350][  2]LogDirectoryWatcher: A directory notification failed for 'M:/UE4/dantesfolly/Content/', and we were unable to create a new request.
+[2019.11.14-15.40.20:350][  2]LogDirectoryWatcher: A directory notification failed for 'M:/UE4/dantesfolly/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.11.14-15.40.20:350][  2]LogDirectoryWatcher: A directory notification failed for 'M:/UE4/dantesfolly/Content/Developers/1803332/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.11.14-15.40.20:351][  2]LogDirectoryWatcher: A directory notification failed for 'M:/UE4/dantesfolly/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.11.14-15.40.20:545][  3]LogDirectoryWatcher: A directory notification failed for 'M:/UE4/dantesfolly/Content/Developers/1803332/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.11.14-15.40.20:546][  3]LogDirectoryWatcher: A directory notification failed for 'M:/UE4/dantesfolly/Content/Developers/1803332/Collections/', and we were unable to create a new request.
+[2019.11.14-15.40.20:546][  3]LogDirectoryWatcher: A directory notification failed for 'M:/UE4/dantesfolly/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.11.14-15.40.20:546][  3]LogDirectoryWatcher: A directory notification failed for 'M:/UE4/dantesfolly/Saved/Collections/', and we were unable to create a new request.
+[2019.11.14-15.40.20:547][  3]LogDirectoryWatcher: A directory notification failed for 'M:/UE4/dantesfolly/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.11.14-15.40.20:547][  3]LogDirectoryWatcher: A directory notification failed for 'M:/UE4/dantesfolly/Content/Collections/', and we were unable to create a new request.
+[2019.11.14-15.40.27:798][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-15.40.30:517][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-15.40.31:762][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CastleWall6m12)
+[2019.11.14-15.40.33:329][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-15.40.34:816][343]LogSlate: Window 'Viewport 2' being destroyed
+[2019.11.14-15.40.35:336][389]LogAssetRegistry: Asset discovery search completed in 30.5968 seconds
+[2019.11.14-15.40.35:338][389]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.11.14-15.40.35:338][389]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2019.11.14-15.40.35:891][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-15.41.41:840][780]Cmd: EDIT CUT
+[2019.11.14-15.41.41:862][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:863][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:863][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:863][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:863][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:863][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:864][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:864][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:864][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:864][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:864][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:865][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:865][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:865][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:865][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:865][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:866][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:866][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:866][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:866][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:866][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:866][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:866][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:867][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:867][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:867][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:867][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:867][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:868][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:868][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:868][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:868][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:868][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:868][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:869][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:869][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:869][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:869][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:870][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:870][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:870][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:870][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:871][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:871][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:871][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:871][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:871][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:871][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:872][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:872][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:872][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:872][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:872][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:872][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:873][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:873][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:873][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:873][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:873][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:873][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:874][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:874][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:874][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:874][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:874][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:874][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:875][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:875][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:875][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:875][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:875][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:875][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:875][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:876][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.41:898][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.11.14-15.41.41:898][780]LogEditorActor: Deleted 74 Actors (0.048 secs)
+[2019.11.14-15.41.41:906][780]Cmd: TRANSACTION UNDO
+[2019.11.14-15.41.41:906][780]LogEditorTransaction: Undo Cut
+[2019.11.14-15.41.41:958][780]LogSlate: Took 0.000355 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.14-15.41.43:760][942]Cmd: EDIT CUT
+[2019.11.14-15.41.43:781][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:781][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:781][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:782][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:782][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:782][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:782][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:782][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:782][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:783][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:783][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:783][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:783][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:783][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:783][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:784][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:784][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:784][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:784][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:784][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:784][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:784][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:785][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:785][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:785][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:785][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:786][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:786][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:786][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:786][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:786][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:786][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:787][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:787][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:787][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:787][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:787][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:788][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:788][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:788][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:788][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:788][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:789][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:789][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:789][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:789][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:789][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:789][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:790][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:790][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:790][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:790][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:790][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:790][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:791][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:791][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:791][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:791][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:791][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:792][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:792][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:792][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:792][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:792][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:792][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:793][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:793][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:793][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:793][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:793][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:793][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:794][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:794][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:794][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.41.43:817][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.11.14-15.41.43:818][942]LogEditorActor: Deleted 74 Actors (0.048 secs)
+[2019.11.14-15.41.44:602][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-15.41.48:080][374]LogEditorViewport: Clicking Background
+[2019.11.14-15.41.51:772][816]Cmd: EDIT PASTE
+[2019.11.14-15.41.54:212][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-15.41.55:771][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plank3m4)
+[2019.11.14-15.42.00:813][744]Cmd: EDIT CUT
+[2019.11.14-15.42.00:826][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.42.00:826][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.42.00:827][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.42.00:827][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.42.00:827][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.42.00:827][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.42.00:851][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.11.14-15.42.00:852][744]LogEditorActor: Deleted 6 Actors (0.034 secs)
+[2019.11.14-15.42.03:225][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-15.42.04:759][174]Cmd: EDIT PASTE
+[2019.11.14-15.42.07:547][469]Cmd: EDIT CUT
+[2019.11.14-15.42.07:559][469]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-15.42.07:584][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.11.14-15.42.07:584][469]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2019.11.14-15.42.08:524][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-15.42.09:385][646]Cmd: EDIT PASTE
+[2019.11.14-15.42.09:877][691]LogSlate: Took 0.001074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.14-15.44.50:880][633]LogEditorViewport: Clicking Background
+[2019.11.14-15.44.52:171][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-15.44.54:700][ 48]LogSlate: Window 'Viewport 2' being destroyed
+[2019.11.14-15.44.56:019][198]LogSlate: Window 'Viewport 2' being destroyed
+[2019.11.14-15.44.57:995][412]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.14-15.44.58:011][412]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.14-15.44.58:011][412]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.14-15.44.58:011][412]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.14-15.44.58:011][412]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.14-15.44.58:011][412]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.14-15.44.58:011][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.14-15.44.58:012][412]PIE: New page: PIE session: Main_Level (14 Nov 2019 15:44:58)
+[2019.11.14-15.44.58:024][412]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Main_Level
+[2019.11.14-15.44.58:036][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010497s)
+[2019.11.14-15.44.58:037][412]LogAIModule: Creating AISystem for world Main_Level
+[2019.11.14-15.44.58:037][412]LogPlayLevel: PIE: World Init took: (0.000480s)
+[2019.11.14-15.44.58:037][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Main_Level.Main_Level to /Game/levels/UEDPIE_0_Main_Level.Main_Level (0.012834s)
+[2019.11.14-15.44.58:061][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.11.14-15.44.58:078][412]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.14-15.44.58:091][412]LogInit: FAudioDevice initialized.
+[2019.11.14-15.44.58:198][412]LogLoad: Game class is 'Base_GM_C'
+[2019.11.14-15.44.58:247][412]LogWorld: Bringing World /Game/levels/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 0) at 2019.11.14-15.44.58
+[2019.11.14-15.44.58:247][412]LogWorld: Bringing up level for play took: 0.001100
+[2019.11.14-15.44.58:267][412]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0015 seconds. Added 20 classes and 0 folders.
+[2019.11.14-15.44.58:269][412]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Main_Level 0.114
+[2019.11.14-15.44.58:269][412]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.14-15.44.58:269][412]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.14-15.44.58:269][412]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.14-15.44.58:269][412]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.14-15.44.58:269][412]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.14-15.45.15:308][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.11.14-15.45.40:731][362]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.14-15.45.40:731][362]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.14-15.45.40:731][362]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.14-15.45.40:731][362]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.14-15.45.40:731][362]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.14-15.45.40:731][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-15.45.40:769][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.14-15.45.40:770][362]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.14-15.45.40:770][362]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.14-15.45.40:770][362]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.14-15.45.40:770][362]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.14-15.45.40:770][362]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.14-15.45.40:795][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-15.45.40:799][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.11.14-15.45.40:838][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.11.14-15.45.40:845][364]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.11.14-15.45.59:708][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-15.46.18:837][634]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyContent/Enemies/LesserDemon/LesserDemon.LesserDemon
+[2019.11.14-15.46.19:087][634]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 121 classes and 0 folders.
+[2019.11.14-15.46.19:802][634]LogSlate: Took 0.000901 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.14-15.46.22:343][875]LogSlate: Window 'LesserDemon' being destroyed
+[2019.11.14-15.47.38:999][ 21]LogSlate: Took 0.001080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.11.14-15.48.55:434][951]BlueprintLog: New page: Compile LesserDemon
+[2019.11.14-15.48.55:627][951]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.11.14-15.49.08:130][417]BlueprintLog: New page: Compile LesserDemon
+[2019.11.14-15.49.08:326][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.11.14-15.49.10:150][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-15.49.13:605][979]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyContent/Dante/Dante_BP.Dante_BP
+[2019.11.14-15.49.38:946][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-15.49.59:025][ 26]BlueprintLog: New page: Compile LesserDemon
+[2019.11.14-15.49.59:209][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.11.14-15.50.00:748][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-15.50.00:828][215]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.14-15.50.00:852][215]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.14-15.50.00:852][215]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.14-15.50.00:852][215]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.14-15.50.00:852][215]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.14-15.50.00:852][215]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.14-15.50.00:852][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.14-15.50.00:852][215]PIE: New page: PIE session: Main_Level (14 Nov 2019 15:50:00)
+[2019.11.14-15.50.00:852][215]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Main_Level
+[2019.11.14-15.50.00:863][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010745s)
+[2019.11.14-15.50.00:864][215]LogAIModule: Creating AISystem for world Main_Level
+[2019.11.14-15.50.00:864][215]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2019.11.14-15.50.00:864][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Main_Level.Main_Level to /Game/levels/UEDPIE_0_Main_Level.Main_Level (0.011469s)
+[2019.11.14-15.50.00:894][215]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.11.14-15.50.00:912][215]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.14-15.50.00:928][215]LogInit: FAudioDevice initialized.
+[2019.11.14-15.50.00:961][215]LogLoad: Game class is 'Base_GM_C'
+[2019.11.14-15.50.01:007][215]LogWorld: Bringing World /Game/levels/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 0) at 2019.11.14-15.50.01
+[2019.11.14-15.50.01:007][215]LogWorld: Bringing up level for play took: 0.001126
+[2019.11.14-15.50.01:022][215]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Main_Level 0.868
+[2019.11.14-15.50.01:022][215]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.14-15.50.01:022][215]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.14-15.50.01:022][215]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.14-15.50.01:022][215]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.14-15.50.01:022][215]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.14-15.50.02:529][394]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.14-15.50.02:529][394]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.14-15.50.02:529][394]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.14-15.50.02:529][394]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.14-15.50.02:529][394]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.14-15.50.02:529][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-15.50.02:559][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.14-15.50.02:559][394]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.14-15.50.02:559][394]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.14-15.50.02:559][394]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.14-15.50.02:559][394]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.14-15.50.02:559][394]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.14-15.50.02:593][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-15.50.02:599][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.11.14-15.50.02:645][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.11.14-15.50.02:653][396]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.11.14-15.50.02:890][423]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.14-15.50.02:969][432]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.11.14-15.50.03:536][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-15.50.03:603][502]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.14-15.50.03:618][502]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.14-15.50.03:618][502]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.14-15.50.03:618][502]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.14-15.50.03:618][502]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.14-15.50.03:618][502]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.14-15.50.03:618][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.14-15.50.03:618][502]PIE: New page: PIE session: Main_Level (14 Nov 2019 15:50:03)
+[2019.11.14-15.50.03:618][502]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Main_Level
+[2019.11.14-15.50.03:628][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009148s)
+[2019.11.14-15.50.03:628][502]LogAIModule: Creating AISystem for world Main_Level
+[2019.11.14-15.50.03:628][502]LogPlayLevel: PIE: World Init took: (0.000444s)
+[2019.11.14-15.50.03:628][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Main_Level.Main_Level to /Game/levels/UEDPIE_0_Main_Level.Main_Level (0.009696s)
+[2019.11.14-15.50.03:660][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.11.14-15.50.03:677][502]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.14-15.50.03:690][502]LogInit: FAudioDevice initialized.
+[2019.11.14-15.50.03:721][502]LogLoad: Game class is 'Base_GM_C'
+[2019.11.14-15.50.03:780][502]LogWorld: Bringing World /Game/levels/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 0) at 2019.11.14-15.50.03
+[2019.11.14-15.50.03:780][502]LogWorld: Bringing up level for play took: 0.000848
+[2019.11.14-15.50.03:796][502]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Main_Level -0.359
+[2019.11.14-15.50.03:796][502]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.14-15.50.03:796][502]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.14-15.50.03:796][502]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.14-15.50.03:796][502]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.14-15.50.03:796][502]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.14-15.50.19:136][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.11.14-15.50.29:012][478]LogBlueprintUserMessages: [LesserDemon_2] 90.0
+[2019.11.14-15.50.30:678][678]LogBlueprintUserMessages: [LesserDemon_2] 80.0
+[2019.11.14-15.50.33:166][973]LogBlueprintUserMessages: [LesserDemon_2] 70.0
+[2019.11.14-15.50.34:831][171]LogBlueprintUserMessages: [LesserDemon_2] 60.0
+[2019.11.14-15.50.36:498][371]LogBlueprintUserMessages: [LesserDemon_2] 50.0
+[2019.11.14-15.50.38:165][571]LogBlueprintUserMessages: [LesserDemon_2] 40.0
+[2019.11.14-15.50.39:856][774]LogBlueprintUserMessages: [LesserDemon_2] 30.0
+[2019.11.14-15.50.41:499][971]LogBlueprintUserMessages: [LesserDemon_2] 20.0
+[2019.11.14-15.50.43:167][171]LogBlueprintUserMessages: [LesserDemon_2] 10.0
+[2019.11.14-15.50.45:212][416]LogBlueprintUserMessages: [LesserDemon_2] 0.0
+[2019.11.14-15.50.46:372][555]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.14-15.50.46:372][555]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.14-15.50.46:372][555]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.14-15.50.46:372][555]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.14-15.50.46:372][555]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.14-15.50.46:373][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-15.50.46:403][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.14-15.50.46:404][555]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.14-15.50.46:404][555]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.14-15.50.46:404][555]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.14-15.50.46:404][555]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.14-15.50.46:404][555]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.14-15.50.46:459][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-15.50.46:463][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.11.14-15.50.46:485][556]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.11.14-15.50.46:519][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.11.14-15.50.47:582][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-15.51.14:505][863]BlueprintLog: New page: Compile LesserDemon
+[2019.11.14-15.51.14:684][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.11.14-15.51.16:824][116]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.14-15.51.17:559][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-15.51.17:600][203]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.14-15.51.17:628][203]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.14-15.51.17:628][203]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.14-15.51.17:628][203]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.14-15.51.17:628][203]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.14-15.51.17:628][203]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.14-15.51.17:628][203]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.14-15.51.17:628][203]PIE: New page: PIE session: Main_Level (14 Nov 2019 15:51:17)
+[2019.11.14-15.51.17:628][203]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Main_Level
+[2019.11.14-15.51.17:639][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010844s)
+[2019.11.14-15.51.17:639][203]LogAIModule: Creating AISystem for world Main_Level
+[2019.11.14-15.51.17:640][203]LogPlayLevel: PIE: World Init took: (0.000549s)
+[2019.11.14-15.51.17:640][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Main_Level.Main_Level to /Game/levels/UEDPIE_0_Main_Level.Main_Level (0.011524s)
+[2019.11.14-15.51.17:670][203]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.11.14-15.51.17:686][203]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.14-15.51.17:698][203]LogInit: FAudioDevice initialized.
+[2019.11.14-15.51.17:727][203]LogLoad: Game class is 'Base_GM_C'
+[2019.11.14-15.51.17:789][203]LogWorld: Bringing World /Game/levels/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 0) at 2019.11.14-15.51.17
+[2019.11.14-15.51.17:789][203]LogWorld: Bringing up level for play took: 0.001020
+[2019.11.14-15.51.17:803][203]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Main_Level -0.351
+[2019.11.14-15.51.17:809][203]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.14-15.51.17:809][203]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.14-15.51.17:809][203]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.14-15.51.17:809][203]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.14-15.51.17:809][203]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.14-15.51.34:432][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.11.14-15.52.10:364][430]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.14-15.52.10:364][430]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.14-15.52.10:364][430]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.14-15.52.10:364][430]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.14-15.52.10:364][430]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.14-15.52.10:365][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-15.52.10:408][430]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.14-15.52.10:409][430]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.14-15.52.10:409][430]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.14-15.52.10:409][430]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.14-15.52.10:409][430]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.14-15.52.10:409][430]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.14-15.52.10:480][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-15.52.10:486][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.11.14-15.52.10:512][431]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.11.14-15.52.10:546][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.11.14-15.52.20:369][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-15.52.20:507][583]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/MyContent/Dante/Dante_AnimBP.Dante_AnimBP
+[2019.11.14-15.52.20:541][583]LogBlueprintActionDatabase: Requesting refresh due to module change: SkeletonEditor (loaded)
+[2019.11.14-15.52.20:542][583]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2019.11.14-15.52.20:852][583]LogTexture: Display: Building textures: Enemy_Task_Master_lantern_E (AutoDXT, 128X128)
+[2019.11.14-15.52.20:852][583]LogTexture: Display: Building textures: Enemy_Task_Master_lantern_N (BC5, 512X512)
+[2019.11.14-15.52.20:852][583]LogTexture: Display: Building textures: Enemy_Task_Master_lantern_D (AutoDXT, 512X512)
+[2019.11.14-15.52.21:004][583]LogMaterial: Display: Missing cached shader map for material M_Enemy_TaskMaster_Lantern, compiling. 
+[2019.11.14-15.52.21:063][583]LogSkeletalMesh: Building Skeletal Mesh Enemy_Task_Master_Lantern...
+[2019.11.14-15.52.21:063][583]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeAdversaries/Enemy/Enemy_Task_Master/Enemy_Task_Master_Lantern.Enemy_Task_Master_Lantern
+[2019.11.14-15.52.21:070][583]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.11.14-15.52.21:070][583]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.11.14-15.52.21:070][583]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.11.14-15.52.21:070][583]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.14-15.52.21:070][583]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.14-15.52.21:078][583]LogBlueprintActionDatabase: Requesting refresh due to module change: PinnedCommandList (loaded)
+[2019.11.14-15.52.21:079][583]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2019.11.14-15.52.21:495][583]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.14-15.52.23:398][699]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.14-15.52.23:642][727]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.14-15.52.24:051][756]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.14-15.52.39:981][ 63]BlueprintLog: New page: Compile Dante_AnimBP
+[2019.11.14-15.52.40:239][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2019.11.14-15.52.41:611][159]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.14-15.52.41:633][159]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.14-15.52.41:633][159]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.14-15.52.41:633][159]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.14-15.52.41:633][159]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.14-15.52.41:633][159]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.14-15.52.41:633][159]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.14-15.52.41:633][159]PIE: New page: PIE session: Main_Level (14 Nov 2019 15:52:41)
+[2019.11.14-15.52.41:633][159]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Main_Level
+[2019.11.14-15.52.41:643][159]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009903s)
+[2019.11.14-15.52.41:643][159]LogAIModule: Creating AISystem for world Main_Level
+[2019.11.14-15.52.41:644][159]LogPlayLevel: PIE: World Init took: (0.000443s)
+[2019.11.14-15.52.41:644][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Main_Level.Main_Level to /Game/levels/UEDPIE_0_Main_Level.Main_Level (0.010448s)
+[2019.11.14-15.52.41:685][159]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2019.11.14-15.52.41:701][159]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.14-15.52.41:714][159]LogInit: FAudioDevice initialized.
+[2019.11.14-15.52.41:720][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-15.52.41:811][159]LogLoad: Game class is 'Base_GM_C'
+[2019.11.14-15.52.41:813][159]LogWorld: Bringing World /Game/levels/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 0) at 2019.11.14-15.52.41
+[2019.11.14-15.52.41:813][159]LogWorld: Bringing up level for play took: 0.001301
+[2019.11.14-15.52.41:833][159]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Main_Level -0.322
+[2019.11.14-15.52.41:834][159]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.14-15.52.41:834][159]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.14-15.52.41:834][159]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.14-15.52.41:834][159]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.14-15.52.41:834][159]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.14-15.52.41:859][160]LogRenderer: Reallocating scene render targets to support 1272x1016 Format 10 NumSamples 1 (Frame:1).
+[2019.11.14-15.52.57:554][105]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.14-15.52.57:554][105]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.14-15.52.57:554][105]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.14-15.52.57:554][105]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.14-15.52.57:554][105]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.14-15.52.57:554][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-15.52.57:573][105]LogSlate: Window 'Dantes_Folly Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.14-15.52.57:615][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.14-15.52.57:615][105]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.14-15.52.57:615][105]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.14-15.52.57:615][105]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.14-15.52.57:615][105]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.14-15.52.57:615][105]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.14-15.52.57:663][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.11.14-15.52.57:682][106]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.11.14-15.52.57:719][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.11.14-15.53.31:976][941]BlueprintLog: New page: Compile Dante_AnimBP
+[2019.11.14-15.53.32:196][941]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.11.14-15.53.33:285][ 18]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.14-15.53.33:305][ 18]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.14-15.53.33:305][ 18]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.14-15.53.33:305][ 18]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.14-15.53.33:305][ 18]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.14-15.53.33:305][ 18]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.14-15.53.33:305][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.14-15.53.33:305][ 18]PIE: New page: PIE session: Main_Level (14 Nov 2019 15:53:33)
+[2019.11.14-15.53.33:305][ 18]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Main_Level
+[2019.11.14-15.53.33:314][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010116s)
+[2019.11.14-15.53.33:315][ 18]LogAIModule: Creating AISystem for world Main_Level
+[2019.11.14-15.53.33:315][ 18]LogPlayLevel: PIE: World Init took: (0.000561s)
+[2019.11.14-15.53.33:315][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Main_Level.Main_Level to /Game/levels/UEDPIE_0_Main_Level.Main_Level (0.010778s)
+[2019.11.14-15.53.33:357][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.11.14-15.53.33:372][ 18]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.14-15.53.33:385][ 18]LogInit: FAudioDevice initialized.
+[2019.11.14-15.53.33:392][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-15.53.33:486][ 18]LogLoad: Game class is 'Base_GM_C'
+[2019.11.14-15.53.33:488][ 18]LogWorld: Bringing World /Game/levels/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 0) at 2019.11.14-15.53.33
+[2019.11.14-15.53.33:488][ 18]LogWorld: Bringing up level for play took: 0.000994
+[2019.11.14-15.53.33:506][ 18]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Main_Level -0.649
+[2019.11.14-15.53.33:507][ 18]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.14-15.53.33:507][ 18]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.14-15.53.33:507][ 18]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.14-15.53.33:507][ 18]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.14-15.53.33:507][ 18]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.14-15.53.49:616][960]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.14-15.53.49:617][960]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.14-15.53.49:617][960]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.14-15.53.49:617][960]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.14-15.53.49:617][960]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.14-15.53.49:617][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-15.53.49:647][960]LogSlate: Window 'Dantes_Folly Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.14-15.53.49:687][960]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.14-15.53.49:687][960]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.14-15.53.49:687][960]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.14-15.53.49:687][960]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.14-15.53.49:687][960]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.14-15.53.49:687][960]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.14-15.53.49:736][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.11.14-15.53.49:754][961]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.11.14-15.53.49:790][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.11.14-15.54.10:685][814]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.14-15.54.12:777][983]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Attack_A_Fast.Attack_A_Fast
+[2019.11.14-15.54.12:777][983]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Attack_A_Fast.Attack_A_Fast) using current/default (AnimCompress_PerTrackCompression_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.14-15.54.12:843][983]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Attack_A_Fast.Attack_A_Fast
+[2019.11.14-15.54.12:876][983]LogBlueprintActionDatabase: Requesting refresh due to module change: AnimationEditor (loaded)
+[2019.11.14-15.54.12:886][983]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.14-15.54.12:915][983]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.14-15.54.13:561][983]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.14-15.54.23:682][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-15.54.37:552][840]LogBlueprint: Warning: [Compiler GreystonePlayerCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2019.11.14-15.54.37:552][840]LogBlueprint: Warning: [Compiler GreystonePlayerCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2019.11.14-15.54.37:552][840]LogBlueprint: Warning: [Compiler GreystonePlayerCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2019.11.14-15.54.37:553][840]LogBlueprint: Warning: [Compiler GreystonePlayerCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2019.11.14-15.54.37:553][840]LogBlueprint: Warning: [Compiler GreystonePlayerCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2019.11.14-15.54.37:564][840]LogBlueprint: Warning: [Compiler GreystonePlayerCharacter] [0879.05] Compile of GreystonePlayerCharacter successful, but with 5 Warning(s) [in 39 ms] (/Game/ParagonGreystone/Characters/Heroes/Greystone/GreystonePlayerCharacter.GreystonePlayerCharacter)
+[2019.11.14-15.54.37:658][840]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ParagonGreystone/Characters/Heroes/Greystone/GreystonePlayerCharacter.GreystonePlayerCharacter
+[2019.11.14-15.54.38:006][840]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:ExecuteUbergraph_Greystone_AnimBlueprint
+
+[2019.11.14-15.54.38:008][840]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:ExecuteUbergraph_Greystone_AnimBlueprint
+
+[2019.11.14-15.54.46:206][482]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.14-15.54.56:357][868]LogSlate: Window 'GreystonePlayerCharacter' being destroyed
+[2019.11.14-15.55.34:321][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-15.55.34:446][669]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint
+[2019.11.14-15.55.34:455][669]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.14-15.55.34:709][669]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.14-15.56.37:028][111]BlueprintLog: New page: Compile Dante_BP
+[2019.11.14-15.56.37:074][111]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "MeleeSpeed" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Get MeleeSpeed
+[2019.11.14-15.56.37:074][111]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "MeleeSpeed" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set MeleeSpeed
+[2019.11.14-15.56.37:074][111]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "SaveAttack" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set SaveAttack
+[2019.11.14-15.56.37:074][111]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "SaveAttack" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set SaveAttack
+[2019.11.14-15.56.37:074][111]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "SaveAttack" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Get SaveAttack
+[2019.11.14-15.56.37:074][111]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "SaveAttack" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set SaveAttack
+[2019.11.14-15.56.37:074][111]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "AttackCount" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set AttackCount
+[2019.11.14-15.56.37:074][111]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "AttackCount" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Get AttackCount
+[2019.11.14-15.56.37:074][111]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "AttackCount" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set AttackCount
+[2019.11.14-15.56.37:074][111]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "AttackCount" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set AttackCount
+[2019.11.14-15.56.37:074][111]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "AttackCount" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set AttackCount
+[2019.11.14-15.56.37:079][111]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Attack Count  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.56.37:079][111]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Attack Count  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.56.37:079][111]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Attack Count  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.56.37:079][111]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Attack Count  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.56.37:079][111]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Attack Count  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.56.37:079][111]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Save Attack  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.56.37:079][111]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Save Attack  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.56.37:079][111]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Save Attack  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.56.37:079][111]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Save Attack  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.56.37:079][111]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Melee Speed  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.56.37:079][111]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Melee Speed  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.56.37:401][111]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2019.11.14-15.56.37:437][111]LogBlueprint: Warning: [Compiler Dante_BP] [0998.92] Compile of Dante_BP failed. 11 Fatal Issue(s) 11 Warning(s) [in 409 ms] (/Game/MyContent/Dante/Dante_BP.Dante_BP)
+[2019.11.14-15.56.52:644][391]BlueprintLog: New page: Compile Dante_BP
+[2019.11.14-15.56.52:669][391]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "MeleeSpeed" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Get MeleeSpeed
+[2019.11.14-15.56.52:669][391]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "MeleeSpeed" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set MeleeSpeed
+[2019.11.14-15.56.52:669][391]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "SaveAttack" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set SaveAttack
+[2019.11.14-15.56.52:669][391]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "SaveAttack" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set SaveAttack
+[2019.11.14-15.56.52:669][391]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "SaveAttack" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Get SaveAttack
+[2019.11.14-15.56.52:669][391]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "SaveAttack" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set SaveAttack
+[2019.11.14-15.56.52:669][391]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "AttackCount" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set AttackCount
+[2019.11.14-15.56.52:669][391]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "AttackCount" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Get AttackCount
+[2019.11.14-15.56.52:669][391]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "AttackCount" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set AttackCount
+[2019.11.14-15.56.52:669][391]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "AttackCount" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set AttackCount
+[2019.11.14-15.56.52:669][391]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "AttackCount" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set AttackCount
+[2019.11.14-15.56.52:674][391]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Attack Count  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.56.52:674][391]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Attack Count  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.56.52:674][391]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Attack Count  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.56.52:674][391]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Attack Count  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.56.52:674][391]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Attack Count  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.56.52:674][391]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Save Attack  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.56.52:674][391]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Save Attack  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.56.52:674][391]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Save Attack  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.56.52:674][391]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Save Attack  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.56.52:674][391]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Melee Speed  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.56.52:674][391]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Melee Speed  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.56.52:957][391]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2019.11.14-15.56.52:992][391]LogBlueprint: Warning: [Compiler Dante_BP] [1014.47] Compile of Dante_BP failed. 11 Fatal Issue(s) 11 Warning(s) [in 348 ms] (/Game/MyContent/Dante/Dante_BP.Dante_BP)
+[2019.11.14-15.57.12:065][  2]BlueprintLog: New page: Compile Dante_BP
+[2019.11.14-15.57.12:091][  2]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "SaveAttack" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set SaveAttack
+[2019.11.14-15.57.12:091][  2]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "SaveAttack" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set SaveAttack
+[2019.11.14-15.57.12:091][  2]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "SaveAttack" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Get SaveAttack
+[2019.11.14-15.57.12:091][  2]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "SaveAttack" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set SaveAttack
+[2019.11.14-15.57.12:091][  2]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "AttackCount" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set AttackCount
+[2019.11.14-15.57.12:091][  2]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "AttackCount" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Get AttackCount
+[2019.11.14-15.57.12:091][  2]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "AttackCount" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set AttackCount
+[2019.11.14-15.57.12:091][  2]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "AttackCount" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set AttackCount
+[2019.11.14-15.57.12:091][  2]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "AttackCount" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set AttackCount
+[2019.11.14-15.57.12:096][  2]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Attack Count  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.57.12:096][  2]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Attack Count  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.57.12:096][  2]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Attack Count  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.57.12:096][  2]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Attack Count  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.57.12:096][  2]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Attack Count  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.57.12:096][  2]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Save Attack  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.57.12:096][  2]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Save Attack  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.57.12:096][  2]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Save Attack  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.57.12:096][  2]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Save Attack  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.57.12:335][  2]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2019.11.14-15.57.12:372][  2]LogBlueprint: Warning: [Compiler Dante_BP] [1033.85] Compile of Dante_BP failed. 9 Fatal Issue(s) 9 Warning(s) [in 306 ms] (/Game/MyContent/Dante/Dante_BP.Dante_BP)
+[2019.11.14-15.57.37:276][  2]BlueprintLog: New page: Compile Dante_BP
+[2019.11.14-15.57.37:308][  2]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "SaveAttack" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set SaveAttack
+[2019.11.14-15.57.37:308][  2]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "SaveAttack" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set SaveAttack
+[2019.11.14-15.57.37:308][  2]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "SaveAttack" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Get SaveAttack
+[2019.11.14-15.57.37:308][  2]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "SaveAttack" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set SaveAttack
+[2019.11.14-15.57.37:308][  2]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "AttackCount" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set AttackCount
+[2019.11.14-15.57.37:309][  2]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "AttackCount" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Get AttackCount
+[2019.11.14-15.57.37:309][  2]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "AttackCount" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set AttackCount
+[2019.11.14-15.57.37:309][  2]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "AttackCount" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set AttackCount
+[2019.11.14-15.57.37:309][  2]LogBlueprint: Warning: [Compiler Dante_BP] Could not find a variable named "AttackCount" in 'Dante_BP_C'.
+Make sure 'Dante_BP_C' has been compiled for  Set AttackCount
+[2019.11.14-15.57.37:312][  2]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Attack Count  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.57.37:312][  2]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Attack Count  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.57.37:312][  2]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Attack Count  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.57.37:312][  2]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Attack Count  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.57.37:312][  2]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Save Attack  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.57.37:312][  2]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Save Attack  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.57.37:312][  2]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Save Attack  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.57.37:312][  2]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Save Attack  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.57.37:312][  2]LogBlueprint: Error: [Compiler Dante_BP] The property associated with  Attack Count  could not be found in '/Game/MyContent/Dante/Dante_BP.Dante_BP_C'
+[2019.11.14-15.57.37:557][  2]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2019.11.14-15.57.37:592][  2]LogBlueprint: Warning: [Compiler Dante_BP] [1059.08] Compile of Dante_BP failed. 9 Fatal Issue(s) 9 Warning(s) [in 316 ms] (/Game/MyContent/Dante/Dante_BP.Dante_BP)
+[2019.11.14-15.57.49:960][  3]BlueprintLog: New page: Compile Dante_BP
+[2019.11.14-15.57.50:269][  3]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.11.14-15.59.11:891][619]LogUObjectArray: Warning: Empty slot
+[2019.11.14-15.59.11:898][619]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.11.14-15.59.12:768][619]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.870 s
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: 
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: Stack: 
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: [Callstack] 0x00007ff8a6d3c0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: [Callstack] 0x00007ff8a65b6fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: [Callstack] 0x00007ff8a65c4e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: [Callstack] 0x00007ff897d437f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: [Callstack] 0x00007ff88e835cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: [Callstack] 0x00007ff88e7f1e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: [Callstack] 0x00007ff8a74e5984 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: [Callstack] 0x00007ff8a76d15e3 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: [Callstack] 0x00007ff8a752d70b UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: [Callstack] 0x00007ff8a750af5a UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: [Callstack] 0x00007ff8a7500287 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: [Callstack] 0x00007ff8d2feb726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: [Callstack] 0x00007ff8d2fdef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: [Callstack] 0x00007ff8d2fed77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: [Callstack] 0x00007ff8d2fdc090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: [Callstack] 0x00007ff8edf27281 USER32.dll!UnknownFunction []
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: [Callstack] 0x00007ff8edf26c53 USER32.dll!UnknownFunction []
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: [Callstack] 0x00007ff8d2fee946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: [Callstack] 0x00007ff601815d3e UE4Editor.exe!UnknownFunction []
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: [Callstack] 0x00007ff60182554c UE4Editor.exe!UnknownFunction []
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: [Callstack] 0x00007ff6018255ca UE4Editor.exe!UnknownFunction []
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: [Callstack] 0x00007ff60183316c UE4Editor.exe!UnknownFunction []
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: [Callstack] 0x00007ff601835b8e UE4Editor.exe!UnknownFunction []
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: [Callstack] 0x00007ff8ec8c4034 KERNEL32.DLL!UnknownFunction []
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: [Callstack] 0x00007ff8eeac3691 ntdll.dll!UnknownFunction []
+[2019.11.14-15.59.12:768][619]LogOutputDevice: Error: 
+[2019.11.14-15.59.12:781][619]LogStats:                SubmitErrorReport -  0.000 s
