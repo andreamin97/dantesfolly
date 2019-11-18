@@ -4104,3 +4104,676 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.18-11.41.36:451][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Upper-city_level_BuiltData" FILE="//StuHomeEven/HomeDrive2$/1803332/UE4/dantesfolly/Content/levels/Upper-city_level_BuiltData.uasset" SILENT=true
 [2019.11.18-11.41.38:640][344]LogSavePackage: Moving '//StuHomeEven/HomeDrive2$/1803332/UE4/dantesfolly/Saved/Upper-city_level_BuiltData677269284159AF0EFD4A3D9A67E82003.tmp' to '//StuHomeEven/HomeDrive2$/1803332/UE4/dantesfolly/Content/levels/Upper-city_level_BuiltData.uasset'
 [2019.11.18-11.42.11:623][ 73]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (32.912 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.18-11.42.30:825][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-11.42.37:321][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-11.42.40:421][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-11.42.43:552][908]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.18-11.42.54:523][617]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyContent/Blueprints/PlazaStatue_BP.PlazaStatue_BP
+[2019.11.18-11.43.29:059][177]LogActorFactory: Actor Factory created SM_MatPreviewMesh_02
+[2019.11.18-11.43.30:030][236]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.18-11.43.30:959][298]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.18-11.43.43:485][271]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.18-11.43.50:004][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-11.44.20:772][ 19]LogEditorTransaction: Undo Modify Component(s)
+[2019.11.18-11.44.29:837][698]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.18-11.44.34:246][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-11.45.02:942][289]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.18-11.45.21:602][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-11.45.24:103][720]BlueprintLog: New page: Compile PlazaStatue_BP
+[2019.11.18-11.45.24:448][720]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2019.11.18-11.45.34:775][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-11.45.42:643][943]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.18-11.45.53:765][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-11.45.53:833][660]BlueprintLog: New page: Compile PlazaStatue_BP
+[2019.11.18-11.45.54:101][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.11.18-11.46.11:515][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-11.46.11:569][858]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-11.46.11:598][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.18-11.46.11:598][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.18-11.46.11:598][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.18-11.46.11:598][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.18-11.46.11:598][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.18-11.46.11:598][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-11.46.11:599][858]PIE: New page: PIE session: Main_Level (18 Nov 2019 11:46:11)
+[2019.11.18-11.46.11:599][858]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Main_Level
+[2019.11.18-11.46.11:625][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025925s)
+[2019.11.18-11.46.11:625][858]LogAIModule: Creating AISystem for world Main_Level
+[2019.11.18-11.46.11:625][858]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2019.11.18-11.46.11:625][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Main_Level.Main_Level to /Game/levels/UEDPIE_0_Main_Level.Main_Level (0.026651s)
+[2019.11.18-11.46.11:668][858]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.11.18-11.46.11:682][858]LogInit: XAudio2 using 'Speaker (Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.18-11.46.11:694][858]LogInit: FAudioDevice initialized.
+[2019.11.18-11.46.11:724][858]LogLoad: Game class is 'Base_GM_C'
+[2019.11.18-11.46.11:778][858]LogWorld: Bringing World /Game/levels/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 0) at 2019.11.18-11.46.11
+[2019.11.18-11.46.11:778][858]LogWorld: Bringing up level for play took: 0.002825
+[2019.11.18-11.46.12:086][858]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Main_Level -0.242
+[2019.11.18-11.46.12:092][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.18-11.46.12:092][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.18-11.46.12:092][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.18-11.46.12:093][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.18-11.46.12:093][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.18-11.46.12:340][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2019.11.18-11.46.12:563][865]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2019.11.18-11.46.13:096][904]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.11.18-11.46.14:952][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.11.18-11.46.15:672][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.11.18-11.46.16:970][148]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.11.18-11.46.23:505][730]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.18-11.46.23:506][730]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.18-11.46.23:506][730]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.18-11.46.23:506][730]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.18-11.46.23:506][730]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.18-11.46.23:506][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-11.46.23:538][730]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-11.46.23:539][730]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.18-11.46.23:539][730]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.18-11.46.23:539][730]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.18-11.46.23:539][730]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.18-11.46.23:539][730]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.18-11.46.23:582][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-11.46.23:589][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.11.18-11.46.23:617][731]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2019.11.18-11.46.23:651][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.11.18-11.46.24:996][838]LogEditorViewport: Clicking on Actor (LMB): PlazaStatue_BP_C (PlazaStatue_BP)
+[2019.11.18-11.46.25:774][893]Cmd: EDIT CUT
+[2019.11.18-11.46.25:794][893]LogEditorActor: Deleted Actor: PlazaStatue_BP_C
+[2019.11.18-11.46.25:832][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.11.18-11.46.25:832][893]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2019.11.18-11.46.27:014][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-11.46.27:593][ 28]Cmd: EDIT PASTE
+[2019.11.18-11.46.33:536][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-11.46.33:589][459]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-11.46.33:623][459]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.18-11.46.33:623][459]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.18-11.46.33:624][459]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.18-11.46.33:624][459]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.18-11.46.33:624][459]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.18-11.46.33:624][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-11.46.33:624][459]PIE: New page: PIE session: Main_Level (18 Nov 2019 11:46:33)
+[2019.11.18-11.46.33:624][459]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Main_Level
+[2019.11.18-11.46.33:647][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022789s)
+[2019.11.18-11.46.33:647][459]LogAIModule: Creating AISystem for world Main_Level
+[2019.11.18-11.46.33:647][459]LogPlayLevel: PIE: World Init took: (0.000504s)
+[2019.11.18-11.46.33:647][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Main_Level.Main_Level to /Game/levels/UEDPIE_0_Main_Level.Main_Level (0.023451s)
+[2019.11.18-11.46.33:690][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.11.18-11.46.33:701][459]LogInit: XAudio2 using 'Speaker (Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.18-11.46.33:709][459]LogInit: FAudioDevice initialized.
+[2019.11.18-11.46.33:738][459]LogLoad: Game class is 'Base_GM_C'
+[2019.11.18-11.46.33:789][459]LogWorld: Bringing World /Game/levels/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 0) at 2019.11.18-11.46.33
+[2019.11.18-11.46.33:790][459]LogWorld: Bringing up level for play took: 0.002244
+[2019.11.18-11.46.33:922][459]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Main_Level -0.406
+[2019.11.18-11.46.33:927][459]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.18-11.46.33:927][459]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.18-11.46.33:927][459]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.18-11.46.33:927][459]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.18-11.46.33:927][459]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.18-11.46.48:393][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.11.18-11.46.59:750][499]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.18-11.46.59:750][499]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.18-11.46.59:751][499]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.18-11.46.59:751][499]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.18-11.46.59:751][499]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.18-11.46.59:751][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-11.46.59:789][499]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-11.46.59:789][499]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.18-11.46.59:789][499]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.18-11.46.59:789][499]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.18-11.46.59:789][499]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.18-11.46.59:789][499]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.18-11.46.59:836][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-11.46.59:844][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.11.18-11.46.59:874][500]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2019.11.18-11.46.59:911][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.11.18-11.47.04:032][835]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.18-11.47.10:276][324]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.18-11.47.16:959][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-11.47.49:083][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-11.47.58:761][343]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.18-11.48.09:312][189]LogEditorTransaction: Undo Make New Scene Root
+[2019.11.18-11.49.00:783][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-11.49.33:323][905]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.18-11.49.36:133][141]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.18-11.49.37:624][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-11.51.29:818][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-11.52.44:895][798]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.11.18-11.52.45:048][798]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Plaza_level, Actor: /Game/levels/Plaza_level.Plaza_level:PersistentLevel.REINST_Plaza_level_C_0
+[2019.11.18-11.52.48:177][798]LogSavePackage: Moving '//StuHomeEven/HomeDrive2$/1803332/UE4/dantesfolly/Saved/Plaza_level_Auto58BD29EDC421CA89906B48EBFB9D43EA7.tmp' to '//StuHomeEven/HomeDrive2$/1803332/UE4/dantesfolly/Saved/Autosaves/Game/levels/Plaza_level_Auto5.umap'
+[2019.11.18-11.52.48:406][798]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Upper-city_level, Actor: /Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.REINST_Upper-city_level_C_0
+[2019.11.18-11.53.20:485][798]LogSavePackage: Moving '//StuHomeEven/HomeDrive2$/1803332/UE4/dantesfolly/Saved/Upper-city_level_Auto515B2E3C047EA9D76B73661AA3B16C666.tmp' to '//StuHomeEven/HomeDrive2$/1803332/UE4/dantesfolly/Saved/Autosaves/Game/levels/Upper-city_level_Auto5.umap'
+[2019.11.18-11.53.20:501][798]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/levels/Main_Level' took 35.683
+[2019.11.18-11.53.20:501][798]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 35.683
+[2019.11.18-11.53.20:504][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyContent/Blueprints/PlazaStatue_BP] ([1] browsable assets)...
+[2019.11.18-11.53.20:523][798]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyContent/Blueprints/PlazaStatue_BP.PlazaStatue_BP]
+[2019.11.18-11.53.20:523][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Blueprints/PlazaStatue_BP]
+[2019.11.18-11.53.20:651][798]LogSavePackage: Moving '//StuHomeEven/HomeDrive2$/1803332/UE4/dantesfolly/Saved/PlazaStatue_BP_Auto52AD2888944161DE7B9909485F519EA63.tmp' to '//StuHomeEven/HomeDrive2$/1803332/UE4/dantesfolly/Saved/Autosaves/Game/MyContent/Blueprints/PlazaStatue_BP_Auto5.uasset'
+[2019.11.18-11.53.20:658][798]LogFileHelpers: Auto-saving content packages took 0.154
+[2019.11.18-11.54.11:488][716]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (50.806 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.18-11.55.51:959][423]BlueprintLog: New page: Compile PlazaStatue_BP
+[2019.11.18-11.55.52:181][423]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2019.11.18-11.56.37:839][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-11.57.12:389][115]BlueprintLog: New page: Compile PlazaStatue_BP
+[2019.11.18-11.57.12:614][115]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.11.18-11.57.41:893][772]BlueprintLog: New page: Compile PlazaStatue_BP
+[2019.11.18-11.57.42:114][772]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.11.18-11.57.51:556][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-11.57.51:617][684]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-11.57.51:652][684]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.18-11.57.51:653][684]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.18-11.57.51:653][684]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.18-11.57.51:653][684]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.18-11.57.51:653][684]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.18-11.57.51:653][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-11.57.51:653][684]PIE: New page: PIE session: Main_Level (18 Nov 2019 11:57:51)
+[2019.11.18-11.57.51:653][684]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Main_Level
+[2019.11.18-11.57.51:676][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023304s)
+[2019.11.18-11.57.51:677][684]LogAIModule: Creating AISystem for world Main_Level
+[2019.11.18-11.57.51:677][684]LogPlayLevel: PIE: World Init took: (0.000570s)
+[2019.11.18-11.57.51:677][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Main_Level.Main_Level to /Game/levels/UEDPIE_0_Main_Level.Main_Level (0.023992s)
+[2019.11.18-11.57.51:713][684]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.11.18-11.57.51:723][684]LogInit: XAudio2 using 'Speaker (Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.18-11.57.51:733][684]LogInit: FAudioDevice initialized.
+[2019.11.18-11.57.51:771][684]LogLoad: Game class is 'Base_GM_C'
+[2019.11.18-11.57.51:839][684]LogWorld: Bringing World /Game/levels/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 0) at 2019.11.18-11.57.51
+[2019.11.18-11.57.51:839][684]LogWorld: Bringing up level for play took: 0.002537
+[2019.11.18-11.57.51:962][684]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Main_Level -0.366
+[2019.11.18-11.57.51:962][684]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.18-11.57.51:962][684]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.18-11.57.51:962][684]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.18-11.57.51:962][684]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.18-11.57.51:962][684]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.18-11.57.56:590][127]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.18-11.57.56:590][127]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.18-11.57.56:590][127]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.18-11.57.56:590][127]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.18-11.57.56:590][127]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.18-11.57.56:590][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-11.57.56:625][127]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-11.57.56:625][127]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.18-11.57.56:625][127]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.18-11.57.56:625][127]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.18-11.57.56:625][127]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.18-11.57.56:625][127]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.18-11.57.56:670][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-11.57.56:677][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.11.18-11.57.56:702][128]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2019.11.18-11.57.56:735][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.11.18-11.58.00:041][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-11.58.02:934][711]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.18-11.58.07:842][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-11.58.16:538][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-11.58.27:410][805]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.18-11.58.31:344][121]LogEditorViewport: Clicking on Actor (LMB): PlazaStatue_BP_C (PlazaStatue_BP)
+[2019.11.18-11.58.32:053][172]LogEditorViewport: Clicking on Actor (LMB): PlazaStatue_BP_C (PlazaStatue_BP)
+[2019.11.18-11.58.33:064][253]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.18-11.58.40:862][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-12.00.08:972][762]BlueprintLog: New page: Compile PlazaStatue_BP
+[2019.11.18-12.00.09:214][762]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.11.18-12.00.56:725][412]BlueprintLog: New page: Compile PlazaStatue_BP
+[2019.11.18-12.00.56:954][412]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.11.18-12.02.00:618][ 43]BlueprintLog: New page: Compile PlazaStatue_BP
+[2019.11.18-12.02.00:848][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2019.11.18-12.02.05:394][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-12.02.05:462][367]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-12.02.05:497][367]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.18-12.02.05:497][367]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.18-12.02.05:498][367]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.18-12.02.05:498][367]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.18-12.02.05:498][367]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.18-12.02.05:498][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-12.02.05:498][367]PIE: New page: PIE session: Main_Level (18 Nov 2019 12:02:05)
+[2019.11.18-12.02.05:498][367]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Main_Level
+[2019.11.18-12.02.05:522][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024365s)
+[2019.11.18-12.02.05:522][367]LogAIModule: Creating AISystem for world Main_Level
+[2019.11.18-12.02.05:523][367]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2019.11.18-12.02.05:523][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Main_Level.Main_Level to /Game/levels/UEDPIE_0_Main_Level.Main_Level (0.025165s)
+[2019.11.18-12.02.05:562][367]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.11.18-12.02.05:572][367]LogInit: XAudio2 using 'Speaker (Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.18-12.02.05:580][367]LogInit: FAudioDevice initialized.
+[2019.11.18-12.02.05:614][367]LogLoad: Game class is 'Base_GM_C'
+[2019.11.18-12.02.05:663][367]LogWorld: Bringing World /Game/levels/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 0) at 2019.11.18-12.02.05
+[2019.11.18-12.02.05:663][367]LogWorld: Bringing up level for play took: 0.002531
+[2019.11.18-12.02.05:792][367]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Main_Level -0.536
+[2019.11.18-12.02.05:797][367]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.18-12.02.05:797][367]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.18-12.02.05:797][367]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.18-12.02.05:797][367]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.18-12.02.05:797][367]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.18-12.02.10:910][730]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.11.18-12.02.12:536][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.11.18-12.02.14:538][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.11.18-12.02.14:932][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.11.18-12.02.16:941][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.11.18-12.02.26:120][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.11.18-12.02.27:349][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.11.18-12.02.31:414][ 44]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.31:853][ 74]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.32:096][ 91]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.32:360][109]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.32:649][129]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.32:913][147]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.33:127][161]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.33:312][174]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.33:484][186]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.33:643][197]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.33:799][208]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.34:566][250]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.18-12.02.37:153][415]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.37:352][430]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.37:535][444]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.38:513][516]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.38:704][530]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.38:869][542]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.39:034][554]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.39:318][575]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.39:514][589]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.39:691][602]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.39:841][613]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.39:999][625]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.40:168][638]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.40:365][652]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.40:519][663]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.40:708][677]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.40:846][687]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.41:318][722]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.41:537][738]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.41:743][753]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.42:246][790]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.42:509][810]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.42:733][827]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.42:947][843]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.43:162][859]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.43:335][872]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.43:522][886]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.43:708][900]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.44:184][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.11.18-12.02.47:895][166]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.48:062][177]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.48:246][189]LogBlueprintUserMessages: [CastleGate_BP_2] Hello
+[2019.11.18-12.02.48:713][220]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.18-12.02.48:713][220]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.18-12.02.48:713][220]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.18-12.02.48:713][220]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.18-12.02.48:713][220]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.18-12.02.48:713][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-12.02.48:758][220]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-12.02.48:758][220]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/levels/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/levels/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2019.11.18-12.02.48:758][220]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Forest_level.Forest_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level' with GeneratedClass '/Game/levels/Forest_level.Forest_level_C' with ClassGeneratedBy '/Game/levels/Forest_level.Forest_level:PersistentLevel.Forest_level'
+[2019.11.18-12.02.48:758][220]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Plaza_level.Plaza_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level' with GeneratedClass '/Game/levels/Plaza_level.Plaza_level_C' with ClassGeneratedBy '/Game/levels/Plaza_level.Plaza_level:PersistentLevel.Plaza_level'
+[2019.11.18-12.02.48:758][220]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level' with GeneratedClass '/Game/levels/Lower-city_level.Lower-city_level_C' with ClassGeneratedBy '/Game/levels/Lower-city_level.Lower-city_level:PersistentLevel.Lower-city_level'
+[2019.11.18-12.02.48:758][220]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level' with GeneratedClass '/Game/levels/Upper-city_level.Upper-city_level_C' with ClassGeneratedBy '/Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.Upper-city_level'
+[2019.11.18-12.02.48:804][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-12.02.48:813][220]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.11.18-12.02.48:844][221]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2019.11.18-12.02.48:874][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.11.18-12.02.55:124][725]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.18-12.03.11:109][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.11.18-12.03.11:118][848]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.18-12.03.11:125][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Plaza_level" FILE="//StuHomeEven/HomeDrive2$/1803332/UE4/dantesfolly/Content/levels/Plaza_level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.18-12.03.11:187][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.11.18-12.03.11:373][848]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Plaza_level, Actor: /Game/levels/Plaza_level.Plaza_level:PersistentLevel.REINST_Plaza_level_C_0
+[2019.11.18-12.03.14:352][848]LogSavePackage: Moving '//StuHomeEven/HomeDrive2$/1803332/UE4/dantesfolly/Saved/Plaza_level0EC9F031447008D6A0F6B9A268547339.tmp' to '//StuHomeEven/HomeDrive2$/1803332/UE4/dantesfolly/Content/levels/Plaza_level.umap'
+[2019.11.18-12.03.14:372][848]LogFileHelpers: Saving map 'Plaza_level' took 3.248
+[2019.11.18-12.03.14:380][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Upper-city_level" FILE="//StuHomeEven/HomeDrive2$/1803332/UE4/dantesfolly/Content/levels/Upper-city_level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.18-12.03.14:424][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.11.18-12.03.14:627][848]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Upper-city_level, Actor: /Game/levels/Upper-city_level.Upper-city_level:PersistentLevel.REINST_Upper-city_level_C_0
+[2019.11.18-12.03.48:756][848]LogSavePackage: Moving '//StuHomeEven/HomeDrive2$/1803332/UE4/dantesfolly/Saved/Upper-city_level55E2AB0C40BCD6E601F3498B09DCCE9B.tmp' to '//StuHomeEven/HomeDrive2$/1803332/UE4/dantesfolly/Content/levels/Upper-city_level.umap'
+[2019.11.18-12.03.48:797][848]LogFileHelpers: Saving map 'Upper-city_level' took 34.419
+[2019.11.18-12.03.48:827][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/PlazaStatue_BP" FILE="//StuHomeEven/HomeDrive2$/1803332/UE4/dantesfolly/Content/MyContent/Blueprints/PlazaStatue_BP.uasset" SILENT=true
+[2019.11.18-12.03.49:119][848]LogSavePackage: Moving '//StuHomeEven/HomeDrive2$/1803332/UE4/dantesfolly/Saved/PlazaStatue_BPB77C954A472D68C19B2E088C9E188F1F.tmp' to '//StuHomeEven/HomeDrive2$/1803332/UE4/dantesfolly/Content/MyContent/Blueprints/PlazaStatue_BP.uasset'
+[2019.11.18-12.04.11:495][657]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (22.310 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.18-12.04.56:911][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-12.04.57:043][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.11.18-12.04.57:212][384]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.18-12.04.57:269][384]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.18-12.04.57:325][384]LogSlate: Window 'LesserDemon_Boss' being destroyed
+[2019.11.18-12.04.57:330][384]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.18-12.04.57:383][384]LogSlate: Window 'Dantes_Folly - Unreal Editor' being destroyed
+[2019.11.18-12.04.57:384][384]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.18-12.04.57:610][385]Cmd: QUIT_EDITOR
+[2019.11.18-12.04.57:902][385]LogExit: Preparing to exit.
+[2019.11.18-12.04.58:923][385]LogExit: Editor shut down
+[2019.11.18-12.04.58:926][385]LogExit: Transaction tracking system shut down
+[2019.11.18-12.04.59:919][385]LogExit: Object subsystem successfully closed.
+[2019.11.18-12.04.59:948][385]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.18-12.04.59:952][385]LogD3D11RHI: Shutdown
+[2019.11.18-12.04.59:952][385]LogD3D11RHI: CleanupD3DDevice
+[2019.11.18-12.04.59:953][385]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.18-12.04.59:953][385]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.18-12.04.59:953][385]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.18-12.04.59:953][385]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.18-12.04.59:953][385]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.18-12.04.59:953][385]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.18-12.05.00:257][385]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.18-12.05.00:299][385]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (662)
+[2019.11.18-12.05.00:299][385]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (660)
+[2019.11.18-12.05.00:299][385]LogModuleManager: Shutting down and abandoning module BlueprintGraph (658)
+[2019.11.18-12.05.00:299][385]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (656)
+[2019.11.18-12.05.00:299][385]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (654)
+[2019.11.18-12.05.00:299][385]LogModuleManager: Shutting down and abandoning module Voice (652)
+[2019.11.18-12.05.00:299][385]LogModuleManager: Shutting down and abandoning module WorldBrowser (650)
+[2019.11.18-12.05.00:299][385]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (648)
+[2019.11.18-12.05.00:299][385]LogModuleManager: Shutting down and abandoning module SceneOutliner (646)
+[2019.11.18-12.05.00:299][385]LogModuleManager: Shutting down and abandoning module AddContentDialog (644)
+[2019.11.18-12.05.00:299][385]LogModuleManager: Shutting down and abandoning module WidgetCarousel (643)
+[2019.11.18-12.05.00:299][385]LogModuleManager: Shutting down and abandoning module EditorWidgets (640)
+[2019.11.18-12.05.00:299][385]LogModuleManager: Shutting down and abandoning module CollectionManager (638)
+[2019.11.18-12.05.00:299][385]LogModuleManager: Shutting down and abandoning module MeshBuilder (636)
+[2019.11.18-12.05.00:299][385]LogModuleManager: Shutting down and abandoning module StatsViewer (634)
+[2019.11.18-12.05.00:299][385]LogModuleManager: Shutting down and abandoning module FoliageEdit (632)
+[2019.11.18-12.05.00:299][385]LogModuleManager: Shutting down and abandoning module LandscapeEditor (630)
+[2019.11.18-12.05.00:299][385]LogModuleManager: Shutting down and abandoning module MeshPaintMode (628)
+[2019.11.18-12.05.00:299][385]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (626)
+[2019.11.18-12.05.00:299][385]LogModuleManager: Shutting down and abandoning module ActorPickerMode (624)
+[2019.11.18-12.05.00:299][385]LogModuleManager: Shutting down and abandoning module GeometryMode (622)
+[2019.11.18-12.05.00:299][385]LogModuleManager: Shutting down and abandoning module TextureAlignMode (620)
+[2019.11.18-12.05.00:299][385]LogModuleManager: Shutting down and abandoning module BspMode (618)
+[2019.11.18-12.05.00:299][385]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (616)
+[2019.11.18-12.05.00:299][385]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (614)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module AutomationWorker (612)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module OculusMR (610)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (608)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (606)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (604)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module PlacementMode (603)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module MaterialEditor (602)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (598)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (596)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (594)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (592)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (590)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module WebMMedia (588)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (586)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (584)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module SequenceRecorder (583)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (580)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (578)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (576)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (574)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (572)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (570)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (568)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (566)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (564)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (562)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (560)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module CharacterAI (558)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module SmartSnapping (556)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module SessionServices (554)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module MeshPaint (552)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module ViewportSnapping (550)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module ViewportInteraction (548)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module ClothPainter (546)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (545)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module LogVisualizer (542)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module IntroTutorials (540)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (539)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (536)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (534)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (532)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (530)
+[2019.11.18-12.05.00:300][385]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (529)
+[2019.11.18-12.05.00:688][385]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (526)
+[2019.11.18-12.05.00:688][385]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (524)
+[2019.11.18-12.05.00:688][385]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (522)
+[2019.11.18-12.05.00:688][385]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (520)
+[2019.11.18-12.05.00:688][385]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (518)
+[2019.11.18-12.05.00:688][385]LogModuleManager: Shutting down and abandoning module InputBindingEditor (516)
+[2019.11.18-12.05.00:688][385]LogModuleManager: Shutting down and abandoning module MergeActors (514)
+[2019.11.18-12.05.00:688][385]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (512)
+[2019.11.18-12.05.00:688][385]LogModuleManager: Shutting down and abandoning module LocalizationService (511)
+[2019.11.18-12.05.00:688][385]LogModuleManager: Shutting down and abandoning module HardwareTargeting (508)
+[2019.11.18-12.05.00:688][385]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (506)
+[2019.11.18-12.05.00:688][385]LogModuleManager: Shutting down and abandoning module UndoHistory (504)
+[2019.11.18-12.05.00:688][385]LogModuleManager: Shutting down and abandoning module XmlParser (502)
+[2019.11.18-12.05.00:688][385]LogModuleManager: Shutting down and abandoning module Blutility (500)
+[2019.11.18-12.05.00:688][385]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (498)
+[2019.11.18-12.05.00:688][385]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (497)
+[2019.11.18-12.05.00:688][385]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (494)
+[2019.11.18-12.05.00:688][385]LogModuleManager: Shutting down and abandoning module SettingsEditor (492)
+[2019.11.18-12.05.00:688][385]LogModuleManager: Shutting down and abandoning module ProjectLauncher (490)
+[2019.11.18-12.05.00:688][385]LogModuleManager: Shutting down and abandoning module SessionFrontend (488)
+[2019.11.18-12.05.00:688][385]LogModuleManager: Shutting down and abandoning module ProfilerClient (486)
+[2019.11.18-12.05.00:688][385]LogModuleManager: Shutting down and abandoning module DeviceManager (484)
+[2019.11.18-12.05.00:688][385]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (483)
+[2019.11.18-12.05.00:731][385]LogModuleManager: Shutting down and abandoning module AutomationController (480)
+[2019.11.18-12.05.00:731][385]LogModuleManager: Shutting down and abandoning module AutomationWindow (478)
+[2019.11.18-12.05.00:731][385]LogModuleManager: Shutting down and abandoning module Layers (476)
+[2019.11.18-12.05.00:731][385]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (474)
+[2019.11.18-12.05.00:731][385]LogModuleManager: Shutting down and abandoning module DetailCustomizations (472)
+[2019.11.18-12.05.00:731][385]LogModuleManager: Shutting down and abandoning module PackagesDialog (470)
+[2019.11.18-12.05.00:732][385]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (468)
+[2019.11.18-12.05.00:732][385]LogModuleManager: Shutting down and abandoning module Persona (466)
+[2019.11.18-12.05.00:732][385]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (465)
+[2019.11.18-12.05.00:732][385]LogModuleManager: Shutting down and abandoning module AnimGraph (463)
+[2019.11.18-12.05.00:732][385]LogModuleManager: Shutting down and abandoning module Kismet (460)
+[2019.11.18-12.05.00:739][385]LogModuleManager: Shutting down and abandoning module GraphEditor (458)
+[2019.11.18-12.05.00:739][385]LogModuleManager: Shutting down and abandoning module ClassViewer (456)
+[2019.11.18-12.05.00:740][385]LogModuleManager: Shutting down and abandoning module Toolbox (454)
+[2019.11.18-12.05.00:740][385]LogModuleManager: Shutting down and abandoning module ModuleUI (452)
+[2019.11.18-12.05.00:740][385]LogModuleManager: Shutting down and abandoning module MovieSceneTools (450)
+[2019.11.18-12.05.00:740][385]LogModuleManager: Shutting down and abandoning module OutputLog (448)
+[2019.11.18-12.05.00:740][385]LogModuleManager: Shutting down and abandoning module GammaUI (446)
+[2019.11.18-12.05.00:741][385]LogModuleManager: Shutting down and abandoning module Documentation (444)
+[2019.11.18-12.05.00:741][385]LogModuleManager: Shutting down and abandoning module LiveCoding (442)
+[2019.11.18-12.05.00:741][385]LogModuleManager: Shutting down and abandoning module LevelSequence (440)
+[2019.11.18-12.05.00:741][385]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (438)
+[2019.11.18-12.05.00:741][385]LogModuleManager: Shutting down and abandoning module MovieScene (436)
+[2019.11.18-12.05.00:741][385]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (434)
+[2019.11.18-12.05.00:741][385]LogModuleManager: Shutting down and abandoning module LauncherPlatform (432)
+[2019.11.18-12.05.00:741][385]LogModuleManager: Shutting down and abandoning module AnalyticsET (430)
+[2019.11.18-12.05.00:741][385]LogModuleManager: Shutting down and abandoning module PortalServices (428)
+[2019.11.18-12.05.00:741][385]LogModuleManager: Shutting down and abandoning module PortalRpc (426)
+[2019.11.18-12.05.00:741][385]LogModuleManager: Shutting down and abandoning module MessagingRpc (424)
+[2019.11.18-12.05.00:741][385]LogModuleManager: Shutting down and abandoning module AIModule (422)
+[2019.11.18-12.05.00:741][385]LogModuleManager: Shutting down and abandoning module GameplayDebugger (421)
+[2019.11.18-12.05.00:741][385]LogModuleManager: Shutting down and abandoning module AITestSuite (419)
+[2019.11.18-12.05.00:741][385]LogModuleManager: Shutting down and abandoning module NavigationSystem (417)
+[2019.11.18-12.05.00:741][385]LogModuleManager: Shutting down and abandoning module DesktopPlatform (414)
+[2019.11.18-12.05.00:741][385]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (412)
+[2019.11.18-12.05.00:744][385]LogModuleManager: Shutting down and abandoning module ProfilerService (410)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module TaskGraph (408)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module SteamVRController (406)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (404)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (402)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module OculusEditor (400)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module OculusInput (398)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (396)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module EditableMesh (394)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (392)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module CableComponent (390)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module AudioCapture (388)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (386)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module AndroidPermission (384)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (382)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (380)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module MediaCompositing (378)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module LinearTimecode (376)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module ImgMedia (374)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (372)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (370)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (368)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module HTML5Networking (366)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (364)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (362)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module BackChannel (360)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module AppleVision (358)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (356)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module VariantManagerContent (344)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (334)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (332)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module CryptoKeys (330)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (328)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (326)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module UObjectPlugin (324)
+[2019.11.18-12.05.00:758][385]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (322)
+[2019.11.18-12.05.00:759][385]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (320)
+[2019.11.18-12.05.00:759][385]LogModuleManager: Shutting down and abandoning module GitSourceControl (318)
+[2019.11.18-12.05.00:759][385]LogModuleManager: Shutting down and abandoning module SourceControl (317)
+[2019.11.18-12.05.00:759][385]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (314)
+[2019.11.18-12.05.00:759][385]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (312)
+[2019.11.18-12.05.00:759][385]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (310)
+[2019.11.18-12.05.00:759][385]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (308)
+[2019.11.18-12.05.00:759][385]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (306)
+[2019.11.18-12.05.00:759][385]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (304)
+[2019.11.18-12.05.00:759][385]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (302)
+[2019.11.18-12.05.00:759][385]LogModuleManager: Shutting down and abandoning module Paper2DEditor (300)
+[2019.11.18-12.05.00:759][385]LogModuleManager: Shutting down and abandoning module SignificanceManager (298)
+[2019.11.18-12.05.00:759][385]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (296)
+[2019.11.18-12.05.00:759][385]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (294)
+[2019.11.18-12.05.00:759][385]LogModuleManager: Shutting down and abandoning module PhysXVehicles (292)
+[2019.11.18-12.05.00:759][385]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.11.18-12.05.00:759][385]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (288)
+[2019.11.18-12.05.00:759][385]LogModuleManager: Shutting down and abandoning module ApexDestruction (286)
+[2019.11.18-12.05.00:759][385]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.11.18-12.05.00:759][385]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.11.18-12.05.00:859][385]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.11.18-12.05.00:959][385]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.11.18-12.05.00:959][385]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.11.18-12.05.00:959][385]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.11.18-12.05.00:959][385]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.11.18-12.05.00:959][385]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.11.18-12.05.00:959][385]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.18-12.05.00:961][385]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.11.18-12.05.00:961][385]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.11.18-12.05.00:961][385]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.11.18-12.05.00:961][385]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.11.18-12.05.00:961][385]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.11.18-12.05.00:961][385]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.11.18-12.05.00:961][385]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.11.18-12.05.00:961][385]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.11.18-12.05.00:963][385]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.11.18-12.05.00:963][385]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.11.18-12.05.00:963][385]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.11.18-12.05.00:964][385]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.11.18-12.05.00:965][385]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.11.18-12.05.00:968][385]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.11.18-12.05.00:968][385]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.11.18-12.05.00:968][385]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.11.18-12.05.00:968][385]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.11.18-12.05.00:968][385]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.11.18-12.05.00:968][385]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.11.18-12.05.00:968][385]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.11.18-12.05.00:968][385]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.11.18-12.05.00:968][385]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.11.18-12.05.00:968][385]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.11.18-12.05.00:968][385]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.11.18-12.05.00:968][385]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.11.18-12.05.00:968][385]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.11.18-12.05.00:968][385]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.11.18-12.05.00:968][385]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.11.18-12.05.00:968][385]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.11.18-12.05.00:968][385]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.11.18-12.05.00:968][385]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.11.18-12.05.00:968][385]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.11.18-12.05.00:970][385]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.11.18-12.05.00:970][385]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.11.18-12.05.00:970][385]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.11.18-12.05.00:970][385]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.11.18-12.05.00:970][385]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.11.18-12.05.00:970][385]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.11.18-12.05.00:970][385]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.11.18-12.05.00:970][385]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.11.18-12.05.00:974][385]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.11.18-12.05.00:974][385]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.11.18-12.05.00:974][385]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.11.18-12.05.00:974][385]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.11.18-12.05.00:974][385]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.11.18-12.05.00:974][385]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.11.18-12.05.00:974][385]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.11.18-12.05.00:974][385]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.11.18-12.05.00:974][385]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.11.18-12.05.00:974][385]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.11.18-12.05.00:975][385]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.11.18-12.05.00:975][385]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.11.18-12.05.00:975][385]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.11.18-12.05.00:975][385]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.11.18-12.05.00:975][385]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.11.18-12.05.00:975][385]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.11.18-12.05.00:978][385]LogDerivedDataCache: Shutdown
+[2019.11.18-12.05.00:979][385]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.11.18-12.05.00:979][385]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.11.18-12.05.00:979][385]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.11.18-12.05.00:979][385]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.11.18-12.05.00:979][385]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.11.18-12.05.00:979][385]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.11.18-12.05.00:979][385]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.11.18-12.05.00:979][385]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.11.18-12.05.00:979][385]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.11.18-12.05.00:979][385]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.11.18-12.05.00:979][385]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.11.18-12.05.00:979][385]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.11.18-12.05.00:979][385]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.11.18-12.05.00:979][385]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.11.18-12.05.00:979][385]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.11.18-12.05.00:980][385]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.11.18-12.05.00:980][385]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.11.18-12.05.00:980][385]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.11.18-12.05.00:981][385]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.11.18-12.05.00:981][385]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.11.18-12.05.00:981][385]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.11.18-12.05.00:981][385]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.11.18-12.05.00:981][385]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.11.18-12.05.00:983][385]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.11.18-12.05.00:983][385]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.11.18-12.05.00:984][385]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.11.18-12.05.00:984][385]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.11.18-12.05.00:988][385]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.11.18-12.05.00:988][385]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.11.18-12.05.00:988][385]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.11.18-12.05.00:988][385]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.11.18-12.05.00:988][385]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.11.18-12.05.00:988][385]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.11.18-12.05.00:988][385]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.11.18-12.05.00:988][385]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.11.18-12.05.00:988][385]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.11.18-12.05.00:988][385]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.11.18-12.05.00:988][385]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.11.18-12.05.00:988][385]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.11.18-12.05.00:989][385]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.11.18-12.05.00:989][385]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.11.18-12.05.00:989][385]LogHMD: Freeing OpenVRDLLHandle.
+[2019.11.18-12.05.00:989][385]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.11.18-12.05.00:989][385]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.11.18-12.05.00:989][385]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.11.18-12.05.00:989][385]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.11.18-12.05.00:989][385]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.11.18-12.05.00:990][385]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.11.18-12.05.00:990][385]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.11.18-12.05.01:019][385]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.11.18-12.05.01:019][385]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.11.18-12.05.01:019][385]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3391DC00-4D64-C8EC-7031-2C95E978DF78%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=2c5cc4c247f9b03ed2f92c95be835bdf%7C%7C1df5dabb-13fd-4e77-abf6-a3fd2e303480&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.18-12.05.01:025][385]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.11.18-12.05.01:026][385]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.11.18-12.05.01:027][385]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.11.18-12.05.01:034][385]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.11.18-12.05.01:034][385]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.11.18-12.05.01:038][385]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.11.18-12.05.01:038][385]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.11.18-12.05.01:038][385]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.11.18-12.05.01:038][385]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.11.18-12.05.01:038][385]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.11.18-12.05.01:038][385]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.11.18-12.05.01:038][385]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.11.18-12.05.01:039][385]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.11.18-12.05.01:039][385]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.11.18-12.05.01:039][385]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.11.18-12.05.01:039][385]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.11.18-12.05.01:039][385]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.11.18-12.05.01:039][385]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.11.18-12.05.01:039][385]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.11.18-12.05.01:039][385]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.11.18-12.05.01:039][385]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.11.18-12.05.01:039][385]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.11.18-12.05.01:039][385]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.11.18-12.05.01:039][385]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.11.18-12.05.01:046][385]LogExit: Exiting.
+[2019.11.18-12.05.01:074][385]Log file closed, 11/18/19 12:05:01
